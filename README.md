@@ -1,8 +1,8 @@
-# Spring Boot + ReactJS: React Table Pagination Example
+# Azure SQL Database + Spring Boot + React - CRUD & Pagination Example
 
 # User Interface
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV8i74j99NlQmToErsFbW6Me55231zWh-vK8dsByncEjl6KmeILBO8VPGiS1urZTOzTZA1BEB1WFoGz5R4tXAZY1fSjh3EUEbI0sC5zbyEljLDU8wSgbiB0hpf2yN3Dv-ygq42BSOktDBXrQt_NUQ7U1cI-RrACq7zD-KC5qgdOWGPmU6Pua4hsyMtng/w640-h444/springboot-react-pagination.png">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWD2q5-j2ZHAYpYzBfCovvO1F1fno8mDeprRCvl7viLDH9QHx83gyNwe7Grgih9RUDWgsRrtKyobyeZjqmyNkhmpJuRMlv4-EgpA6THb_Z2BVnLWxVKMOVM_fjS2FUwVPePARhM0dGRLtDeeqiPTpDeb-N-MzqImmRmRFydNv5kCeXbuSr3oWGw4JT4w/s791/Untitled%20Diagram.drawio.png">
 
 # Local setup
 
